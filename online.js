@@ -10,7 +10,7 @@ let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
 let songs = [
-    {songName: "uuuuuuuu", filePath: "", coverPath: "1.jpg"},
+    {songName: "EVE", filePath: "", coverPath: "1.jpg"},
     {songName: "Summer High(PagalWorld.com.se", filePath: "D.mp3", coverPath: "2.jpg"},
     {songName: "DEAF KEV - Invincible [NCS Release]-320k", filePath: "", coverPath: "8.jpg"},
     {songName: "Different Heaven & EH!DE - My Heart [NCS Release]", filePath: "", coverPath: "1.jpg"},
